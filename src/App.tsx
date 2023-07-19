@@ -58,12 +58,12 @@ function App() {
             <SizeBox h="3" />
 
             <Text>
-              Mobile Developer
+              Front-end Developer
             </Text>
             <SizeBox h="3" />
 
             <Text>
-              Ho Chi Minh City, Viet Nam
+              Di An - Binh Duong, Viet Nam
             </Text>
             <SizeBox h="3" />
             <Text>
@@ -93,12 +93,12 @@ function App() {
         <SizeBox h="20" />
 
         <Li>
-          A mobile developer with 5+ years of practical programming experience.
+          A Front-end developer with 5+ years of practical programming experience.
         </Li>
         <SizeBox h="3" />
 
         <Li>
-          Familiar with React Native, react js and basic native mobile.
+          Familiar with React js, React Native and basic native mobile.
         </Li>
         <SizeBox h="3" />
 
@@ -134,44 +134,46 @@ function App() {
         </Title>
 
         <Text style={{ fontWeight: 'bold' }}>
-          Frontend Developer | Tiki
+          Front-end Developer | Tiki
         </Text>
         <Text>
-          03/2021 - 04/2023
+          03/2021 - 06/2023
         </Text>
         <SizeBox h="10" />
-        <Li>
-          React native - Maintaining and developing features for seller and admin app. Implementing web admin screens on mobile app as a mini app.
-        </Li>
-        <SizeBox h="3" />
         <Li>
           React js - Working with seller, admin dashboard, maintaining and developing features.
         </Li>
         <SizeBox h="3" />
         <Li>
-          Owning the Warehouse domain on Seller center(inventory reports, requisitions, withdraws, etc.) and deploying it on micro frontend with qiankun.
+          React native - Maintaining and developing features for seller and admin app. Implementing web admin screens on mobile app as a mini app.
+        </Li>
+       
+        <SizeBox h="3" />
+        <Li>
+          Owning the Warehouse domain on Seller center(inventory reports, requisitions, withdraws, etc.) and deploying it on micro front-end with qiankun.
         </Li>
 
 
         <SizeBox h="20" />
         <Text style={{ fontWeight: 'bold' }}>
-          React native Developer | Deliveree
+          Front-end Developer | Deliveree
         </Text>
         <Text>
           06/2020 - 02/2021
         </Text>
         <SizeBox h="10" />
         <Li>
+          React js - Developing features and fixing bugs for Driver and Admin dashboard.
+        </Li>
+        <SizeBox h="3" />
+        <Li>
           React native - Developing and maintaining a standalone mobile app for the domain of parcel delivery and shipment for both customers and truck drivers.
         </Li>
         <SizeBox h="3" />
         <Li>
-          Initiate & integrate Mini App (Reat native) to customer native app (Swift and Kotlin) as a module
+          Initiate & integrate Mini App (Reat native) and module web view to customer native app (Swift and Kotlin) as a module
         </Li>
-        <SizeBox h="3" />
-        <Li>
-          React js - Fixing bugs and developing features for Driver and Admin dashboard.
-        </Li>
+     
 
         <SizeBox h="20" />
         <Text style={{ fontWeight: 'bold' }}>
@@ -203,15 +205,19 @@ function App() {
         </Text>
         <SizeBox h="10" />
         <Li>
-          <a target="_blank" href="https://play.google.com/store/apps/details?id=com.travelbadger">Travel badger</a> (React native) - The MVP application allows users to book and pay for rooms (using Stripe).
+          <a target="_blank" href="https://apps.apple.com/vn/app/weva/id1446252222?l=vi">Weva</a>, <a target="_blank" href="https://play.google.com/store/apps/details?id=com.weva_sales&hl=vi">
+            Weva Sales</a>, <a target="_blank" href="https://play.google.com/store/apps/details?id=com.wevaangels&hl=vi">
+              Weva Angle</a> - Internal web admin and apps for beauty salon systems that allow users and technicians to digitize workflows (real time chat, notification, codepush).
+        </Li>
+        
+        <SizeBox h="3" />
+        <Li>
+        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.travelbadger">Travel badger</a> (React native) - The MVP application allows users to book and pay for rooms (using Stripe).
+      
         </Li>
         <SizeBox h="3" />
         <Li>
-          <a target="_blank" href="https://apps.apple.com/vn/app/weva/id1446252222?l=vi">Weva</a>, <a target="_blank" href="https://play.google.com/store/apps/details?id=com.weva_sales&hl=vi">Weva Sales</a>, <a target="_blank" href="https://play.google.com/store/apps/details?id=com.wevaangels&hl=vi">Weva Angle</a> - Internal apps for beauty systems that allow users and technicians to digitize workflows (real time chat, notification, codepush).
-        </Li>
-        <SizeBox h="3" />
-        <Li>
-          Support backend team (node js) and frontend team (react js)
+          Support backend team (node js)
         </Li>
 
         <SizeBox h="30" />
@@ -219,12 +225,9 @@ function App() {
           Key Skills
         </Title>
         <SizeBox h="20" />
-        <Text style={{ fontWeight: 'bold' }}>
-          Mobile
-        </Text>
-        <SizeBox h="3" />
+      
         <Li>
-          React native (5+ years' experience)
+          Front-end with React js and React native (5+ years' experience)
         </Li>
         <SizeBox h="3" />
         <Li>
@@ -240,10 +243,6 @@ function App() {
           Other
         </Text>
 
-        <SizeBox h="3" />
-        <Li>
-          Frontend: Able to work effectively alone or with colleagues using React and Next.js
-        </Li>
         <SizeBox h="3" />
         <Li>
           Backend basic understanding: NodeJS (Auth, RESTful API, SocketIO), Firebase (Authentication, Database, Functions, Storage, Hosting, Cloud Messaging)
