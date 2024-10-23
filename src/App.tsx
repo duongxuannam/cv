@@ -53,7 +53,7 @@ function App() {
             </Title>
             <SizeBox h="20" />
             <Text>
-              Duong Xuan Nam
+              Duong Xuan Nam 
             </Text>
             <SizeBox h="3" />
 
@@ -93,7 +93,7 @@ function App() {
         <SizeBox h="20" />
 
         <Li>
-          A mobile developer with 5+ years of practical programming experience.
+          A mobile developer with 6+ years of practical programming experience.
         </Li>
         <SizeBox h="3" />
 
@@ -132,12 +132,35 @@ function App() {
         <Title>
           Experience
         </Title>
+        <SizeBox h="20" />
+
+        <Text style={{ fontWeight: 'bold' }}>
+          Frontend Developer | Arbin instruments
+        </Text>
+        <Text>
+          08/2023 - Now
+        </Text>
+        <SizeBox h="10" />
+        <Li>
+        Build ui component kit and develop admin dashboard from scratch
+        </Li>
+        <Li>
+        Develop an application page to operate the battery testing machine from the legacy Winform application, support both desktop application(mac, win, linux) and web version with Tauri and Vite.
+        </Li>
+        <SizeBox h="3" />
+        <Li>
+        Build MVP version universal app for EMS(electric management systems) with React Native Export (Inprogress)
+        </Li>
+        <SizeBox h="3" />
+       
+        <SizeBox h="20" />
+
 
         <Text style={{ fontWeight: 'bold' }}>
           Frontend Developer | Tiki
         </Text>
         <Text>
-          03/2021 - 04/2023
+          03/2021 - 06/2023
         </Text>
         <SizeBox h="10" />
         <Li>
